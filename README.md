@@ -1,8 +1,14 @@
 # Hi, I'm Andiswa Matai 👋
 
+### 🔗 [**View my live, interactive portfolio →**](https://andiswamatai.github.io)
+
 **Senior Data Engineer** with 9+ years building enterprise data platforms across **banking, fintech, capital markets, healthcare, ERP migration, advertising, and fleet/logistics** — currently engineering finance data products for Global Markets at Rand Merchant Bank, with hands-on portfolio work in Microsoft Fabric lakehouse architecture.
 
 I specialise in Azure data platforms, ETL/ELT pipeline development, and audit-ready data integrations for regulated environments. I'm most at home working on the hard problems: reconciliations that actually trace, quality checks that produce real audit evidence, and pipelines that survive replay without breaking.
+
+![Portfolio](https://img.shields.io/badge/Live%20Portfolio-andiswamatai.github.io-2E75B6?style=flat&logo=github)
+![Projects](https://img.shields.io/badge/Projects-7-1F3864?style=flat)
+![Big Data](https://img.shields.io/badge/Largest%20Pipeline-1.15M%2B%20rows-0f7a4b?style=flat)
 
 ---
 
