@@ -1,6 +1,6 @@
 # Hi, I'm Andiswa Matai 👋
 
-**Senior Data Engineer** with 9+ years building enterprise data platforms across **banking, fintech, capital markets, advertising, and fleet/logistics** — currently engineering finance data products for Global Markets at Rand Merchant Bank.
+**Senior Data Engineer** with 9+ years building enterprise data platforms across **banking, fintech, capital markets, healthcare, ERP migration, advertising, and fleet/logistics** — currently engineering finance data products for Global Markets at Rand Merchant Bank, with hands-on portfolio work in Microsoft Fabric lakehouse architecture.
 
 I specialise in Azure data platforms, ETL/ELT pipeline development, and audit-ready data integrations for regulated environments. I'm most at home working on the hard problems: reconciliations that actually trace, quality checks that produce real audit evidence, and pipelines that survive replay without breaking.
 
@@ -14,12 +14,15 @@ I specialise in Azure data platforms, ETL/ELT pipeline development, and audit-re
 | [transaction-monitoring-pipeline](../transaction-monitoring-pipeline) | Fintech | Idempotent event-driven ingestion, Kafka-style dedup, pluggable fraud rules engine |
 | [marketing-analytics-pipeline](../marketing-analytics-pipeline) | Advertising | Google Ads + GA360 + Salesforce unification, CTR / CPA / ROAS / churn KPIs, automated report |
 | [fleet-operations-analytics](../fleet-operations-analytics) | Fleet / Logistics | Telematics KPIs, fuel efficiency, maintenance compliance, driver behaviour alerts |
+| [debt-collection-lakehouse](../debt-collection-lakehouse) | Debt Collection · Big Data | Microsoft Fabric medallion pipeline, 1.15M+ rows, PTP/recovery/settlement KPIs, chunked processing |
+| [healthcare-sap-cloud-migration](../healthcare-sap-cloud-migration) | Healthcare · Big Data | SAP IS-H → Azure migration, 1.13M+ rows, chunked extract-validate-transform |
+| [sap-azure-migration](../sap-azure-migration) | ERP Migration | SAP ECC extract → validate → transform, migration rejection logging, SAP-to-Azure field mapping |
 
 ---
 
 ## 🛠️ Core Stack
 
-**Cloud:** Azure (Data Factory, Synapse, Databricks, Data Lake Storage) · AWS · GCP
+**Cloud:** Azure (Data Factory, Synapse, Databricks, Data Lake Storage, Microsoft Fabric) · AWS · GCP
 
 **Databases:** SQL Server · Redshift · BigQuery · Snowflake · SQLite
 
