@@ -7,12 +7,23 @@
 I specialise in Azure data platforms, ETL/ELT pipeline development, and audit-ready data integrations for regulated environments. I'm most at home working on the hard problems: reconciliations that actually trace, quality checks that produce real audit evidence, and pipelines that survive replay without breaking.
 
 ![Portfolio](https://img.shields.io/badge/Live%20Portfolio-andiswamatai.github.io-2E75B6?style=flat&logo=github)
-![Projects](https://img.shields.io/badge/Projects-7-1F3864?style=flat)
+![Projects](https://img.shields.io/badge/Projects-9-1F3864?style=flat)
 ![Big Data](https://img.shields.io/badge/Largest%20Pipeline-1.15M%2B%20rows-0f7a4b?style=flat)
 
 ---
 
-## 🗂️ Portfolio Projects
+## ⭐ Flagship Platforms
+
+My two signature, end-to-end repositories — full production architecture, not demo scripts: Infrastructure as Code, CI/CD, monitoring, cost optimization, and a working local pipeline engine you can actually run.
+
+| Repo | Cloud | What it demonstrates |
+|---|---|---|
+| **[azure-fabric-retail-platform](../azure-fabric-retail-platform)** | Azure / Microsoft Fabric | ADF → Databricks medallion notebooks → Fabric DirectLake → Power BI. Terraform IaC, Azure Monitor alerting, spot/lifecycle cost optimization, full CI/CD. |
+| **[aws-customer360-platform](../aws-customer360-platform)** | AWS | Kinesis + Lambda (real-time) and Glue + Step Functions (batch) converging into Redshift Serverless. Terraform IaC, CloudWatch alerting, S3 tiering + job bookmarking cost optimization. |
+
+---
+
+## 🗂️ Sector Projects
 
 | Repo | Sector | What it demonstrates |
 |---|---|---|
