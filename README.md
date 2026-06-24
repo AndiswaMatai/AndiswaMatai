@@ -31,7 +31,7 @@ My two signature, end-to-end repositories — full production architecture, not 
 
 | Repo | Sector | What it demonstrates |
 |---|---|---|
-| [finance-reconciliation-pipeline](../finance-reconciliation-pipeline) | Banking / Fintech | Source → sub-ledger → GL reconciliation, Type 2 SCD, embedded data quality, audit control evidence |
+| [finance-ledger-reconciliation-platform](../finance-ledger-reconciliation-platform) | Banking / Capital Markets | Enterprise financial reconciliation platform implementing source → sub-ledger → general ledger validation, Type 2 SCD modelling, automated exception detection, and audit-ready reporting designed for regulatory-grade financial control environments |
 | [transaction-monitoring-pipeline](../transaction-monitoring-pipeline) | Fintech | Idempotent event-driven ingestion, Kafka-style dedup, pluggable fraud rules engine |
 | [marketing-analytics-pipeline](../marketing-analytics-pipeline) | Advertising | Google Ads + GA360 + Salesforce unification, CTR / CPA / ROAS / churn KPIs, automated report |
 | [fleet-operations-analytics](../fleet-operations-analytics) | Fleet / Logistics | Telematics KPIs, fuel efficiency, maintenance compliance, driver behaviour alerts |
