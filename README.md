@@ -13,9 +13,6 @@ My work focuses on building production-style systems that solve real-world chall
 - CI/CD-enabled data engineering pipelines
 - Data quality, governance, and observability frameworks
 
-![Portfolio](https://img.shields.io/badge/Live%20Portfolio-andiswamatai.github.io-2E75B6?style=flat&logo=github)
-![Projects](https://img.shields.io/badge/Projects-9-1F3864?style=flat)
-![Big Data](https://img.shields.io/badge/Largest%20Pipeline-1.15M%2B%20rows-0f7a4b?style=flat)
 
 ---
 
