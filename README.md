@@ -37,7 +37,7 @@ My two signature, end-to-end repositories — full production architecture, not 
 | [fleet-operations-analytics](../fleet-operations-analytics) | Fleet / Logistics | Telematics KPIs, fuel efficiency, maintenance compliance, driver behaviour alerts |
 | [debt-collection-lakehouse](../debt-collection-lakehouse) | Debt Collection · Big Data | Microsoft Fabric medallion pipeline, 1.15M+ rows, PTP/recovery/settlement KPIs, chunked processing |
 | [healthcare-sap-cloud-migration](../healthcare-sap-cloud-migration) | Healthcare · Big Data | SAP IS-H → Azure migration, 1.13M+ rows, chunked extract-validate-transform |
-| [sap-azure-migration](../sap-azure-migration) | ERP Migration | SAP ECC extract → validate → transform, migration rejection logging, SAP-to-Azure field mapping |
+| [enterprise-sap-lakehouse-migration-platform](../enterprise-sap-lakehouse-migration-platform) | Healthcare / Enterprise Data Platforms | Enterprise SAP-to-Azure Lakehouse migration platform implementing chunked ingestion of SAP IS-H datasets, data validation frameworks, schema mapping, and structured Bronze → Silver → Gold transformations with full data lineage, auditability, and reconciliation controls for regulated healthcare environments |
 
 ---
 
