@@ -3,9 +3,7 @@ Specialising in enterprise data platforms for Banking & Healthcare👋
 
 ### 🔗 [**View my live, interactive portfolio →**](https://andiswamatai.github.io)
 
-**Senior Data Engineer** with 9+ years building enterprise data platforms across **banking, fintech, capital markets, healthcare, ERP migration, advertising, and fleet/logistics** — currently engineering finance data products for Global Markets at Rand Merchant Bank, with hands-on portfolio work in Microsoft Fabric lakehouse architecture.
-
-I design and build enterprise-scale data platforms using Azure Databricks, Spark, and Lakehouse architecture principles.
+I design and build enterprise-scale data platforms using Azure Databricks, Spark, and Lakehouse architecture principles across **banking, fintech, capital markets, healthcare, ERP migration, advertising, and fleet/logistics** — currently engineering finance data products for Global Markets at Rand Merchant Bank, with hands-on portfolio work in Microsoft Fabric lakehouse architecture.
 
 My work focuses on building production-style systems that solve real-world challenges in regulated industries such as banking and healthcare, including:
 
