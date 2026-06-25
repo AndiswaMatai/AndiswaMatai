@@ -7,9 +7,7 @@
 ![SQL](https://img.shields.io/badge/Language-SQL-blue?logo=database)
 ![Terraform](https://img.shields.io/badge/IaC-Terraform-purple?logo=terraform)
 ![Power BI](https://img.shields.io/badge/BI-Power%20BI-yellow?logo=powerbi)
-![CI/CD](https://img.shields.io/badge/DevOps-CI%2FCD-green?logo=githubactions)
-
----
+![CI/CD](https://img.shields.io/badge/DevOps-CI%2FCD-green?logo
 
 ## 🚀 About Me
 
@@ -89,4 +87,3 @@ Production-ready end-to-end architectures — Terraform IaC, CI/CD, monitoring, 
 
 📧 **Email:** andiswacebekhulu1@gmail.com
 📍 **Location:** Roodepoort, South Africa
-
