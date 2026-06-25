@@ -1,18 +1,29 @@
-# Senior Data Engineer | Azure Databricks | Lakehouse Architect
+# 👨‍💻 Senior Data Engineer | Azure Databricks | Lakehouse Architect
 
+![Azure](https://img.shields.io/badge/Cloud-Azure-blue?logo=microsoftazure)
+![Databricks](https://img.shields.io/badge/Platform-Databricks-orange?logo=databricks)
+![AWS](https://img.shields.io/badge/Cloud-AWS-orange?logo=amazonaws)
+![Python](https://img.shields.io/badge/Language-Python-yellow?logo=python)
+![SQL](https://img.shields.io/badge/Language-SQL-blue?logo=database)
+![Terraform](https://img.shields.io/badge/IaC-Terraform-purple?logo=terraform)
+![Power BI](https://img.shields.io/badge/BI-Power%20BI-yellow?logo=powerbi)
+![CI/CD](https://img.shields.io/badge/DevOps-CI%2FCD-green?logo=githubactions)
+
+---
+
+## 🚀 About Me
 I design and build **enterprise-scale data platforms** for regulated industries like Banking and Healthcare — turning complex systems into measurable business outcomes.
 
-🔹 **Global Markets Impact:** Engineered finance data products at Rand Merchant Bank, enabling auditability and reconciliation at scale.  
-🔹 **Healthcare Transformation:** Migrated legacy SAP systems to Azure, ensuring compliance and reliability.  
-🔹 **Enterprise Architecture:** Delivered production-ready Medallion architectures with CI/CD, monitoring, and cost optimization.  
-🔹 **Governance & Quality:** Built frameworks for data quality, observability, and compliance across mission-critical pipelines.
+- 🔹 **Global Markets Impact:** Engineered finance data products at Rand Merchant Bank, enabling auditability and reconciliation at scale.  
+- 🔹 **Healthcare Transformation:** Migrated legacy SAP systems to Azure, ensuring compliance and reliability.  
+- 🔹 **Enterprise Architecture:** Delivered production-ready Medallion architectures with CI/CD, monitoring, and cost optimization.  
+- 🔹 **Governance & Quality:** Built frameworks for data quality, observability, and compliance across mission-critical pipelines.  
 
 👉 [View my live, interactive portfolio →](#)
 
 ---
 
 ## ⭐ Flagship Platforms
-
 These are my two signature, end-to-end repositories — **production-ready architectures** (not demo scripts). They showcase Infrastructure as Code, CI/CD, monitoring, cost optimization, and a working local pipeline engine you can actually run.
 
 | Repo | Cloud | What it demonstrates | Business Impact |
@@ -23,7 +34,6 @@ These are my two signature, end-to-end repositories — **production-ready archi
 ---
 
 ## 📊 Sector Projects
-
 | Repo | Sector | What it demonstrates | Business Impact |
 |------|--------|----------------------|-----------------|
 | **finance-ledger-reconciliation-platform** | Banking / Capital Markets | Sub-ledger → GL validation, Type 2 SCD modelling, automated exception detection, audit-ready reporting. | Reduced reconciliation time by 70%, ensured regulatory-grade financial control. |
@@ -37,26 +47,23 @@ These are my two signature, end-to-end repositories — **production-ready archi
 ---
 
 ## 🛠️ Core Stack
-
-**Cloud:** Azure (Data Factory, Synapse, Databricks, Data Lake Storage, Microsoft Fabric) · AWS · GCP  
-**Databases:** SQL Server · Redshift · BigQuery · Snowflake · SQLite  
-**Languages:** SQL · Python · Scala  
-**BI:** Power BI · DAX · Tableau · Looker  
-**DevOps:** GitHub Actions · CI/CD · Terraform · Airflow  
+- **Cloud:** Azure (ADF, Synapse, Databricks, ADLS, Microsoft Fabric) · AWS · GCP  
+- **Databases:** SQL Server · Redshift · BigQuery · Snowflake · SQLite  
+- **Languages:** SQL · Python · Scala  
+- **BI:** Power BI · DAX · Tableau · Looker  
+- **DevOps:** GitHub Actions · CI/CD · Terraform · Airflow  
 
 ---
 
 ## 💰 Career Highlights
-
-- **Rand Merchant Bank** — Finance data mesh: GL, sub-ledger, posting pipeline, source-to-GL reconciliation  
-- **National Treasury SA** — Enterprise Data Warehouse consolidating government financial and procurement data; cut audit preparation time by 35%  
-- **Arena Holdings** — Automated ad analytics pipeline cutting reporting turnaround from 2 days to under 2 hours  
-- **Experian SA** — Migrated on-prem SQL Server warehouses to AWS (S3, Glue, Redshift)  
+- **Rand Merchant Bank:** Finance data mesh — GL, sub-ledger, posting pipeline, source-to-GL reconciliation  
+- **National Treasury SA:** Enterprise Data Warehouse consolidating government financial + procurement data; cut audit prep time by 35%  
+- **Arena Holdings:** Automated ad analytics pipeline — reduced reporting turnaround from 2 days to under 2 hours  
+- **Experian SA:** Migrated on-prem SQL Server warehouses to AWS (S3, Glue, Redshift)  
 
 ---
 
 ## 🧵 Certifications
-
 - AWS Certified Solutions Architect – Associate (2024)  
 - Advanced Diploma: Data Science & R (2023)  
 - Microsoft Power BI Diploma (2022)  
@@ -64,7 +71,5 @@ These are my two signature, end-to-end repositories — **production-ready archi
 ---
 
 ## 📬 Let’s Connect
-
 📧 Email: andiswacebekhulu1@gmail.com  
-📍 Location: Roodepoort, South Africa  
-
+📍 Location: Roodepoort, South Africa
